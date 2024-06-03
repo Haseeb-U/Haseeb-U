@@ -1,6 +1,7 @@
+<!--
 ## Hi there 👋
 
-<!--
+
 **Haseeb-U/Haseeb-U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Hi there 👋
+
+<!--
+**Haseeb-U/Haseeb-U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+-->
+- 🔭 I am Haseeb Uddin from Pakistan.
+- 👯 I’m studying Computer Science at Sukkur Iba University.
+- 🌱 I’m currently learning Kotlin.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Computer Science is not only about COMPUTERS 😄.
