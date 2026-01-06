@@ -1,31 +1,37 @@
-<!--
-## Hi there 👋
+# 👋 Hi, I'm Haseeb Uddin | Freelance Data Analyst
 
+### 📊 Transforming Raw Data into Actionable Business Intelligence
+I specialize in helping businesses make better decisions by uncovering patterns in their data. Whether it's optimizing sales funnels, analyzing market trends, or automating repetitive reporting, I build the bridge between raw numbers and strategic growth.
 
-**Haseeb-U/Haseeb-U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ My Data Stack
+* **Languages:** Python (Pandas, NumPy, Scikit-learn), SQL (PostgreSQL, MySQL)
+* **Visualization:** Matplotlib, Seaborn, Excel Dashboards
+* **Tools:** Jupyter Notebooks, Git/GitHub, Microsoft Excel (Power Query)
+* **Specialties:** Exploratory Data Analysis (EDA), Statistical Modeling, Web Scraping
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
+## 🚀 Featured Projects
+| Project | Key Insight | Tech Used |
+| :--- | :--- | :--- |
+| [**LA Crime Analysis**](https://github.com/Haseeb-U/analyzing-crime-in-Los-Angeles) | Identified peak crime hours (12 PM) for resource allocation. | Python, Seaborn |
+| [**Stack Overflow Trends**](https://github.com/Haseeb-U/analyzing-the-popularity-of-programming-languages) | Tracked the 5-year growth of top programming languages. | Python, Pandas |
 
-## Hi there 👋
+---
 
-<!--
-**Haseeb-U/Haseeb-U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haseeb-U&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb-U&layout=compact&theme=radical)
 
-Here are some ideas to get you started:
--->
-- 🔭 I am Haseeb Uddin from Pakistan.
-- 👯 I’m studying Computer Science at Sukkur Iba University.
-- 🌱 I’m currently learning Kotlin.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Computer Science is not only about COMPUTERS 😄.
+---
+
+## 📫 Let's Work Together!
+I am currently available for freelance projects. If you have a dataset that needs cleaning or a business question that needs answering, let's connect!
+
+* 💼 **LinkedIn:** [[Insert Link](https://www.linkedin.com/in/haseeb-uddin-q/)]
+* 📧 **Email:** [haseebuddinq@gmail.com]
+* 🌍 **Portfolio:** [Link to your Notion/Website if ready]
+
+*"Data is just numbers until you tell its story."*
