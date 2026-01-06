@@ -30,7 +30,7 @@ I specialize in helping businesses make better decisions by uncovering patterns 
 ## 📫 Let's Work Together!
 I am currently available for freelance projects. If you have a dataset that needs cleaning or a business question that needs answering, let's connect!
 
-* 💼 **LinkedIn:** [[Insert Link](https://www.linkedin.com/in/haseeb-uddin-q/)]
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/haseeb-uddin-q/]
 * 📧 **Email:** [haseebuddinq@gmail.com]
 * 🌍 **Portfolio:** [Link to your Notion/Website if ready]
 
