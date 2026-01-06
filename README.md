@@ -21,12 +21,6 @@ I specialize in helping businesses make better decisions by uncovering patterns 
 
 ---
 
-## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haseeb-U&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb-U&layout=compact&theme=radical)
-
----
-
 ## 📫 Let's Work Together!
 I am currently available for freelance projects. If you have a dataset that needs cleaning or a business question that needs answering, let's connect!
 
