@@ -64,6 +64,6 @@ I’m currently available for **freelance data analysis & dataset preparation pr
 - 📧 **Email:** haseebuddinq@gmail.com
 - 🐙 **GitHub:** [https://github.com/Haseeb-U](https://github.com/Haseeb-U)
 - 📑 **Kaggle:** [https://www.kaggle.com/haseebhsb](https://www.kaggle.com/haseebhsb)
-- 📟 **Portfolio:** https://github.com/Haseeb-U
+- 📟 **Portfolio:** [https://haseeb-u.github.io/](https://haseeb-u.github.io/)
 
 *"Data is just numbers until you tell its story."*
